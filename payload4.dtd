@@ -1,3 +1,2 @@
-
-\<!ENTITY health "http://127.0.0.1:7777/health">
+<!ENTITY health "http://127.0.0.1:7777/health">
 <!ENTITY gopherhealth "gopher://127.0.0.1:7777/_GET&#37;20/health&#37;20HTTP/1.0&#37;0D&#37;0AHost:&#37;20127.0.0.1&#37;0D&#37;0AConnection:&#37;20close&#37;0D&#37;0A&#37;0D&#37;0A">
