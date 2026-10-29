@@ -1,1 +1,1 @@
-<!ENTITY xxe "EXTERNAL_DTD_LOADED_SUCCESSFULLY">
+<!ENTITY xxe SYSTEM "file:///etc/hostname">
