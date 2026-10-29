@@ -1,0 +1,6 @@
+<!ENTITY canary "DTD_WORKING">
+<!ENTITY tmp SYSTEM "file:///tmp/ctf-nonexistent-12345">
+<!ENTITY vartmp SYSTEM "file:///var/tmp/ctf-nonexistent-12345">
+<!ENTITY app SYSTEM "file:///app/ctf-nonexistent-12345">
+<!ENTITY cwd SYSTEM "file:///proc/self/cwd/ctf-nonexistent-12345">
+<!ENTITY internal SYSTEM "http://127.0.0.1:7777/health">
